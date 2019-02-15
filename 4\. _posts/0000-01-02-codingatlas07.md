@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Brace yourselves winter is coming
 Use the left arrow to go back!
